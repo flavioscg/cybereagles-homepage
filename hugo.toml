@@ -10,7 +10,7 @@ title = 'CyberEagles - headquarter'
   [Params]
   description = "team cybereagles"
   [Params.Terminal]
-  scheme = "Molokai"
+  scheme = "shell-ubuntu"
 
   userName = "cybereagles"
   pcName = "headquarter"
