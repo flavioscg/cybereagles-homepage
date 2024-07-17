@@ -1,0 +1,55 @@
+baseURL = 'https://cybereagles.github.io'
+languageCode = 'it-it'
+title = 'CyberEagles - headquarter'
+
+
+[module]
+[[module.imports]]
+    path = 'github.com/yukuro/hugo-theme-shell'
+
+  [Params]
+  description = "Jane Doe's Portfolio!"
+  [Params.Terminal]
+  scheme = "Molokai"
+
+  userName = "cybereagles"
+  pcName = "headquarter"
+  workDir = "informazioni"
+  profile = "who-we-are.txt"
+
+  ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
+  stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
+  commandDelay = 50 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
+
+  titleDelay = 0 # title speed : "title" in front matter
+  contentDelay = 0 # content speed : content in .md file
+
+
+  description = """
+  Ciao, benvenuti nel quartier generale di CyberEagles!
+  Siamo un gruppo di ragazzi appassionati di Cybersecurity!
+  Scopri di più sulle nostre attività e progetti qui sotto.
+
+   <p>* Nati per la sicurezza.</p> <p>* Felici possessori del <a target="_blank" href="https://pwnagotchi.ai/">Pwnagotchi</a>!</p><p>* Inside your kernel space: We Hack, You Sleep!</p> 
+   Maggiori info: <a target="_blank" href="https://linktr.ee/cybereagles">LinkTree</a>
+  
+  """
+
+
+  [Params.Tree]
+  folderName = "componenti-del-Team"
+  use = true
+  componenti = "componenti"
+  files = [ 
+    ["Noemi De Martino", "https://linkedin.com/"],
+    ["Victoria Braile", "https://linkedin.com/"],
+    ["Cristian Bonaldi", "https://linkedin.com/"],
+    ["Matteo Beltrami Marzolini", "https://linkedin.com/"],
+    ["Flavio Scognamiglio", "https://linkedin.com/"],
+    ["Mattia Fossati", "https://linkedin.com/"],
+    ["Antonio Spallone", "https://linkedin.com/"],
+    ["Sara Ortiz", "https://linkedin.com/"],
+    ["Paolo Romeo", "https://linkedin.com/"],
+    ["Matteo Zerbi", "https://linkedin.com/"],
+  ]
+
