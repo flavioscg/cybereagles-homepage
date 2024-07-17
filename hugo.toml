@@ -45,15 +45,15 @@ title = 'CyberEagles - headquarter'
   use = true
   componenti = "componenti"
   files = [ 
-    ["Noemi De Martino", "https://linkedin.com/"],
-    ["Victoria Braile", "https://linkedin.com/"],
-    ["Cristian Bonaldi", "https://linkedin.com/"],
-    ["Matteo Beltrami Marzolini", "https://linkedin.com/"],
-    ["Flavio Scognamiglio", "https://linkedin.com/"],
-    ["Mattia Fossati", "https://linkedin.com/"],
-    ["Antonio Spallone", "https://linkedin.com/"],
-    ["Sara Ortiz", "https://linkedin.com/"],
-    ["Paolo Romeo", "https://linkedin.com/"],
-    ["Matteo Zerbi", "https://linkedin.com/"],
+    ["Noemi De Martino", "Leader Supremo"],
+    ["Victoria Braile", "Canva Master"],
+    ["Cristian Bonaldi", "Google Chrome addicted"],
+    ["Matteo Beltrami Marzolini", "CTO Sala delle Torture"],
+    ["Flavio Scognamiglio", "NPLS (Nato Per La Sicurezza)"],
+    ["Mattia Fossati", "Pro Builder"],
+    ["Antonio Spallone", "Chilling expert"],
+    ["Sara Ortiz", "Traveling Cyber Security Specialist"],
+    ["Paolo Romeo", "Legal department"],
+    ["Matteo Zerbi", "Dynamic Team Member"],
   ]
 
