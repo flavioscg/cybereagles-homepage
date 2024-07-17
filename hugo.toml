@@ -45,15 +45,15 @@ title = 'CyberEagles - headquarter'
   use = true
   componenti = "componenti"
   files = [ 
-    ["Noemi De Martino", "Leader Supremo"],
-    ["Victoria Braile", "Canva Master"],
-    ["Cristian Bonaldi", "Google Chrome addicted"],
-    ["Matteo Beltrami Marzolini", "CTO Sala delle Torture"],
-    ["Flavio Scognamiglio", "NPLS (Nato Per La Sicurezza)"],
-    ["Mattia Fossati", "Pro Builder"],
-    ["Antonio Spallone", "Chilling expert"],
-    ["Sara Ortiz", "Traveling Cyber Security Specialist"],
-    ["Paolo Romeo", "Legal department"],
-    ["Matteo Zerbi", "Dynamic Team Member"],
+    ["Noemi De Martino - Leader Supremo", "https://linkedin.com/"],
+    ["Victoria Braile - Canva Master", "https://linkedin.com/"],
+    ["Cristian Bonaldi - Google Chrome addicted", "https://linkedin.com/"],
+    ["Matteo Beltrami Marzolini - CTO Sala delle Torture", "https://linkedin.com/"],
+    ["Flavio Scognamiglio - NPLS (Nato Per La Sicurezza)", "https://linkedin.com/"],
+    ["Mattia Fossati - Pro Builder", "https://linkedin.com/"],
+    ["Antonio Spallone - Chilling expert", "https://linkedin.com/"],
+    ["Sara Ortiz - Traveling Cyber Security Specialist", "https://linkedin.com/"],
+    ["Paolo Romeo - Legal department", "https://linkedin.com/"],
+    ["Matteo Zerbi - Dynamic Team Member", "https://linkedin.com/"],
   ]
 
