@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'localhost'
 languageCode = 'it-it'
 title = 'CyberEagles - headquarter'
 
