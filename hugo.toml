@@ -8,7 +8,7 @@ title = 'CyberEagles - headquarter'
     path = 'github.com/yukuro/hugo-theme-shell'
 
   [Params]
-  description = "Jane Doe's Portfolio!"
+  description = "team cybereagles"
   [Params.Terminal]
   scheme = "Molokai"
 
