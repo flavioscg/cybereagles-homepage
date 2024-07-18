@@ -12,7 +12,7 @@ title = 'CyberEagles - headquarter'
     path = 'github.com/yukuro/hugo-theme-shell'
 
   [Params]
-  description = "team cybereagles"
+  description = "Un team di studenti vivaci e determinati, impegnati a individuare vulnerabilità e potenziare la sicurezza informatica con soluzioni innovative e creative."
   [Params.Terminal]
   scheme = "shell-ubuntu"
 
@@ -35,13 +35,13 @@ title = 'CyberEagles - headquarter'
   Scopri di più sulle nostre attività e progetti qui sotto.
 
    <p>* Nati per la sicurezza.</p> <p>* Felici possessori del <a target="_blank" href="https://pwnagotchi.ai/">Pwnagotchi</a>!</p><p>* Inside your kernel space: We Hack, You Sleep!</p> 
-   Maggiori info: <a target="_blank" href="https://linktr.ee/cybereagles">LinkTree</a>
+   Progetti: <a target="_blank" href="https://linktr.ee/cybereagles">LinkTree</a>
   
   """
 
 
   [Params.Tree]
-  folderName = "componenti-del-Team"
+  folderName = "componenti-del-team"
   use = true
   componenti = "componenti"
   files = [ 
@@ -52,7 +52,7 @@ title = 'CyberEagles - headquarter'
     ["Flavio Scognamiglio - NPLS (Nato Per La Sicurezza)", "https://linkedin.com/"],
     ["Mattia Fossati - Pro Builder", "https://linkedin.com/"],
     ["Antonio Spallone - Chilling expert", "https://linkedin.com/"],
-    ["Sara Ortiz - Traveling Cyber Security Specialist", "https://linkedin.com/"],
+    ["Sarah Ortiz - Traveling Cyber Security Specialist", "https://linkedin.com/"],
     ["Paolo Romeo - Legal department", "https://linkedin.com/"],
     ["Matteo Zerbi - Dynamic Team Member", "https://linkedin.com/"],
   ]
