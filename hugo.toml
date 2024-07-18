@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'it-it'
-title = 'CyberEagles - headquarter'
+title = 'CyberEagles - Headquarter'
 
 [minify]
   minifyOutput = true
@@ -34,7 +34,7 @@ title = 'CyberEagles - headquarter'
   Siamo un gruppo di ragazzi appassionati di Cybersecurity!
   Scopri di più sulle nostre attività e progetti qui sotto.
 
-   <p>* Nati per la sicurezza.</p> <p>* Felici possessori del <a target="_blank" href="https://pwnagotchi.ai/">Pwnagotchi</a>!</p><p>* Inside your kernel space: We Hack, You Sleep!</p> 
+   <p>* Nati per la sicurezza.</p> <p>* Felici possessori del <a target="_blank" href="https://pwnagotchi.ai/">Pwnagotchi</a>!</p><p>* Inside your kernel space: We hack, you sleep!</p> 
    Progetti: <a target="_blank" href="https://linktr.ee/cybereagles">LinkTree</a>
   
   """
